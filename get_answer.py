@@ -7,8 +7,6 @@
 
 import os
 import csv
-import json
-import urllib.request
 from zhihu_APIs import *
 from data_getter import get_data
 from w3lib.html import remove_tags
